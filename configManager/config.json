@@ -1,0 +1,7 @@
+{
+    "overwrite_method": "random",
+    "passes": 5,
+    "logging": true,
+    "log_file": "deletion.log",
+    "confirmation_required": true
+}
